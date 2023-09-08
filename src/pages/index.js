@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Database design textbook">
+      description="Applied JavaScript Notes">
       <HomepageHeader />
       <main>
 
